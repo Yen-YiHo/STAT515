@@ -1,19 +1,196 @@
 ---
-title: "About Me"
-about:
-  id: me
-  template: broadside
-  image: img/profile.png
+title: ""
+page-layout: full
+css: styles.css
+toc: false
 ---
 
-:::{#me}
+```{=html}
+<div class="course-page">
+```
 
-## Goals
+```{=html}
+<div class="page-title">
+```
 
-## Education
+::: {.page-title}
+### STAT515
 
-## Experience
-
+### Fall 2026
 :::
 
-Thanks for checking out my web site!
+```{=html}
+</div>
+```
+
+### <br>STATISTICAL METHODS I
+
+### Instructor: Yen-Yi Ho
+
+### Office: LeConte 216A
+
+### Class Meetings:
+
+### Monday/Wednesday 9:40AM - 10:55AM
+
+### Classroom: LeConte 206
+
+### Dr. Ho's office Hours: Thursday at 10 AM - 11 AM, Friday at 3PM - 4PM or by appointment (LeConte 216A)
+
+### Email: hoyen@stat.sc.edu
+
+### Teaching Assistant: TBA
+
+### TA office hours: TBA
+
+### Textbook:
+
+&nbsp;1. [An Introduction to Statistical Methods & Data Analysis (R. Lyman Ott and Michael Longnecker) 7th Edition (Required)](https://www.amazon.com/dp/1305269470?lv=shuf&channelId=500&plpRedirect=mhFallback)
+
+&nbsp;2. [Introduction to Data Science: Data Wrangling and Visualization with R by *Rafael A. Irizarry* &nbsp;(Recommended)](http://rafalab.dfci.harvard.edu/dsbook-part-1/)
+
+### Resources:
+
+#### [1. Instruction for downloading R and R Studio](https://posit.co/download/rstudio-desktop/).
+
+#### [2.&nbsp;This is Statistics.org](http://thisisstatistics.org)
+
+### Announcements:
+
+### Approximate course outline: (Lecture notes will be updated often)
+
+```{=html}
+<table class="schedule">
+  <tbody>
+    <tr>
+      <td>Date</td>
+      <td>Weekly topic</td>
+      <td>Homework</td>
+      <td>R code</td>
+    </tr>
+    <tr>
+      <td>Week Aug 17</td>
+      <td>
+        <a href="SyllabusFall2026.pdf">Syllabus</a><br>
+        <br>
+        <a href="Calendar.png">Calendar</a><br>
+        <br>
+        <a href="Notes/LectureStarted.pdf">Getting Started with R and R Studio</a><br>
+        <br>
+        <a href="Notes/Chapter1.pdf">Chapter 1</a>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week Aug 24</td>
+      <td>
+        Chapter&nbsp;1.4-1.5<br>
+        Chapter&nbsp;2.1-2.5
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week Aug 31</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week Sep 07</td>
+      <td>&nbsp;Sep 07: Labor Day (No class)</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week Sep 14</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week Sep 21</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week Sep 28</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week Oct 05</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week Oct 12</td>
+      <td>&nbsp;Oct 12: Mid-point</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week Oct 19</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week Oct 26</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week Nov 02</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week Nov 9</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week Nov 16</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week Nov 23</td>
+      <td>&nbsp;Nov 23 - 29 (Thanksgiving No classes)</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week Nov 30</td>
+      <td>&nbsp;Dec 04: Last day of class</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Week Dec 7 -14</td>
+      <td>&nbsp;Final Exam</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td><span style="color: red;">Final Project Due</span></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+```
+
+```{=html}
+</div>
+```
